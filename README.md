@@ -7,50 +7,6 @@ Generics are one of the most powerful features of Swift, and much of the Swift s
 
 This Birthday Cake excersise allows you to practice and implement Generic Functions, Gener Functions with constraints, and mutiple Generic functions in order to create an ascii cake art. 
 
-This is the final image you should produce:
-
-*                                             *
-                                         *     
-           *                                   
-                        *                      
-*                                             *
-                                         *     
-           *                                   
-                        *                      
-*                                             *
-                                         *     
-           *                                   
-                        *                      
-*                                             *
-                                         *     
-           *                                   
-                        *                      
-*                                             *
-                                         *     
-           *                                   
-                        *                      
-*                                             *
-                                         *     
-           *                                   
-                        *                      
-*                                             *
-                                         *     
-           *                                   
-                        *                      
-*                                             *
-                                         *     
-           *                                   
-                        *                      
-    iiiiiiiiiiiiiiiiiii     
-  |||||||H|A|P|P|Y|||||||    
-|\/\/\/\/\/\/\/\/\/\/\/\/\/|
-|||||||||||||||||||||||||||||
-|||||||||||||||||||||||||||||
-|||||||||||||||||||||||||||||
-|,,,,,,,,,,,,,,,,,,,,,,,,,,,|
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-
 Presentation Slides:
 https://drive.google.com/file/d/1sMjocO2PWjn5vd_PASY0zT_T3XUxbd4T/view?usp=sharing
 
